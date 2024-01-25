@@ -6,4 +6,6 @@ OutputBaseFilename=MyApp
 DefaultDirName=W:\InstallTest
 
 [Languages]
-Name: japanese; MessagesFile: compiler:Languages\Japanese.isl
+Name: "english"; MessagesFile: "compiler:Default.isl"
+Name: "japanese"; MessagesFile: "compiler:Languages\Japanese.isl"
+Name: "french"; MessagesFile: "compiler:Languages\French.isl"
